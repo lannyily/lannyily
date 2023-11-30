@@ -1,6 +1,6 @@
 ### Olá, eu sou a Erlanny Rodrigues 👋
 
-Atualmente Acadêmica do Curso de Sistemas de Informação (UFPI).
+Tenho 19 anos e atualmente sou Acadêmica do Curso de Sistemas de Informação (UFPI).
 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](erlanny.rego@ufpi.com.br)
