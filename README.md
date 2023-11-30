@@ -7,9 +7,6 @@ Atualmente Acadêmica do Curso de Sistemas de Informação (UFPI).
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lannyily)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erlanny-rodrigues-51387727a/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crisly&layout=compact&theme=radical&show_icons=true)
-
-
 ### Tecnologias usadas
 <div style="display:inline_blake"><br/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="Logo C" style="width: 50px; height: 40px;">
