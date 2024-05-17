@@ -13,7 +13,7 @@ Tenho 20 anos e atualmente sou Acadêmica do Curso de Sistemas de Informação (
       <img src="https://github-readme-stats.vercel.app/api?username=lannyily&show_icons=true&theme=radical" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lannyily&layout=donut" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lannyily&layout=compact&theme=radical&show_icons=true" />
   </tr>
 </table>
 
