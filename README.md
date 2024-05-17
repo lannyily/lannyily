@@ -10,10 +10,10 @@ Tenho 20 anos e atualmente sou Acadêmica do Curso de Sistemas de Informação (
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=crislymss&show_icons=true&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api?username=lannyily&show_icons=true&theme=radical" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crislymss&layout=compact&theme=radical&show_icons=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lannyily&layout=compact&theme=radical&show_icons=true" />
     </td>
   </tr>
 </table>
