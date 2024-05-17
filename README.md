@@ -7,6 +7,17 @@ Tenho 20 anos e atualmente sou Acadêmica do Curso de Sistemas de Informação (
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lannyily)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erlanny-rodrigues-51387727a/)
 
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=crislymss&show_icons=true&theme=radical" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crislymss&layout=compact&theme=radical&show_icons=true" />
+    </td>
+  </tr>
+</table>
+
 <div style="display:inline_blake"><br/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="Logo C" style="width: 50px; height: 40px;">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Logo Python" style="width: 50px; height: 40px;">
