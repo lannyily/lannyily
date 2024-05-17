@@ -25,6 +25,7 @@ Tenho 20 anos e atualmente sou Acadêmica do Curso de Sistemas de Informação (
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  alt="Logo css" style="width: 50px; height: 40px;" >
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  alt="Logo javascript" style="width: 50px; height: 40px;">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"  alt="Logo Git" style="width: 50px; height: 40px;" />
+   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" >
 <div align="center">
 
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
