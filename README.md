@@ -23,7 +23,7 @@ Tenho 21 anos e atualmente sou Acadêmica do Curso de Sistemas de Informação (
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Logo HTML" style="width: 50px; height: 40px;">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  alt="Logo CSS" style="width: 50px; height: 40px;">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"  alt="Logo Django" style="width: 50px; height: 40px;">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" alt="Logo Flask" style="width: 50px; height: 40px;"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Logo Flask" style="width: 50px; height: 40px;"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" alt="Logo Qt" style="width: 50px; height: 40px;"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/figma/figma-original.svg" alt="Logo Figma" style="width: 50px; height: 40px;"/>
    <img src="https://img.icons8.com/color/512/flutter.png"  alt="Logo Flutter" style="width: 50px; height: 40px;">
