@@ -25,11 +25,12 @@ Tenho 21 anos e atualmente sou Acadêmica do Curso de Sistemas de Informação (
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  alt="Logo JavaScript" style="width: 50px; height: 40px;"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"  alt="Logo Django" style="width: 50px; height: 40px;">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" alt="Logo Qt" style="width: 50px; height: 40px;"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="Logo Firebase" style="width: 50px; height: 40px;"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/figma/figma-original.svg" alt="Logo Figma" style="width: 50px; height: 40px;"/>
    <img src="https://img.icons8.com/color/512/flutter.png"  alt="Logo Flutter" style="width: 50px; height: 40px;">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Logo Git" style="width: 50px; height: 40px;/>
-   <img src="https://img.icons8.com/fluent/512/docker.png" alt="Logo Docker" style="width: 40px; height: 40px; margin-right: 10px;">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Logo Linux" style="width: 50px; height: 40px;/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Logo Git" style="width: 50px; height: 40px;"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Logo Docker" style="width: 50px; height: 40px;"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Logo Linux" style="width: 50px; height: 40px;"/>
     
 
   
