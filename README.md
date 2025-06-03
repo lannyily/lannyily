@@ -23,7 +23,7 @@ Tenho 21 anos e atualmente sou Acadêmica do Curso de Sistemas de Informação (
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"  alt="Logo Git" style="width: 50px; height: 40px;">
    <img src="https://img.icons8.com/color/512/flutter.png"  alt="Logo Git" style="width: 50px; height: 40px;">
    <img src="https://img.icons8.com/fluent/512/docker.png"  alt="Logo Git" style="width: 50px; height: 40px;">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png"  alt="Logo Git" style="width: 40px; height: 20px;">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png"  alt="Logo Git" style="width: 20px; height: 50px;">
   
 <div align="center">
 
