@@ -20,8 +20,10 @@ Tenho 21 anos e atualmente sou Acadêmica do Curso de Sistemas de Informação (
 <div style="display:inline_blake"><br/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="Logo C" style="width: 50px; height: 40px;">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Logo Python" style="width: 50px; height: 40px;">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"  alt="Logo Git" style="width: 50px; height: 40px;">
-   <img src="https://img.icons8.com/color/512/flutter.png"  alt="Logo Git" style="width: 50px; height: 40px;">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Logo HTML" style="width: 50px; height: 40px;">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  alt="Logo CSS" style="width: 50px; height: 40px;">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"  alt="Logo Django" style="width: 50px; height: 40px;">
+   <img src="https://img.icons8.com/color/512/flutter.png"  alt="Logo Flutter" style="width: 50px; height: 40px;">
    <img src="https://img.icons8.com/fluent/512/docker.png" alt="Logo Docker" style="width: 40px; height: 40px; margin-right: 10px;">
     
 
