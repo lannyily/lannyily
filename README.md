@@ -37,7 +37,7 @@ Tenho 21 anos e atualmente sou Acadêmica do Curso de Sistemas de Informação (
   
 <div align="center">
 
-   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/lannyily/lannyily/blob/output/github-contribution-grid-snake.svg)
   
 </div>
           
