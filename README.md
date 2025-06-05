@@ -36,6 +36,6 @@ Tenho 21 anos e atualmente sou Acadêmica do Curso de Sistemas de Informação (
 
   
 <div align="center">
-   <img src="https://raw.githubusercontent.com/lannyily/lannyily/output/github-snake-dark.svg" alt="snake animation" />
+   <img src="https://github.com/lannyily/lannyily/blob/output/github-snake.svg" alt="snake animation" />
 </div>
           
