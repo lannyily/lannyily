@@ -16,7 +16,7 @@ Tenho 21 anos e atualmente sou Acadêmica do Curso de Sistemas de Informação (
 </table>
 
 <div style="display:inline_blake"><br/>
-   <img src="https://img.icons8.com/color/600/c-programming.png" alt="Logo C" style="width: 50px; height: 40px;">
+   <img src="https://img.icons8.com/color/600/c-programming.png" alt="Logo C" style="width: 40px; height: 40px;">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Logo Python" style="width: 50px; height: 40px;">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Logo HTML" style="width: 50px; height: 40px;">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  alt="Logo CSS" style="width: 50px; height: 40px;">
