@@ -2,8 +2,6 @@
 
 Tenho 21 anos e atualmente sou Acadêmica do Curso de Sistemas de Informação (UFPI).
 
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](erlannyrodrigues@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lannyily)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erlanny-rodrigues-51387727a/)
 
@@ -18,7 +16,7 @@ Tenho 21 anos e atualmente sou Acadêmica do Curso de Sistemas de Informação (
 </table>
 
 <div style="display:inline_blake"><br/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="Logo C" style="width: 50px; height: 40px;">
+   <img src="https://img.icons8.com/color/600/c-programming.png" alt="Logo C" style="width: 50px; height: 40px;">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Logo Python" style="width: 50px; height: 40px;">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Logo HTML" style="width: 50px; height: 40px;">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  alt="Logo CSS" style="width: 50px; height: 40px;">
