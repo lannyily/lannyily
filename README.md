@@ -30,8 +30,9 @@ Tenho 21 anos e atualmente sou Acadêmica do Curso de Sistemas de Informação (
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Logo Git" style="width: 50px; height: 40px;"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Logo Docker" style="width: 50px; height: 40px;"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Logo Linux" style="width: 50px; height: 40px;"/>
-    
-
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" alt="Logo React" style="width: 50px; height: 40px;"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Logo Tailwindcss" style="width: 50px; height: 40px;/>
+          
   
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lannyily/lannyily/output/github-contribution-grid-snake-dark.svg">
