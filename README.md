@@ -25,7 +25,6 @@ Tenho 21 anos e atualmente sou Acadêmica do Curso de Sistemas de Informação (
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" alt="Logo Qt" style="width: 50px; height: 40px;"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/figma/figma-original.svg" alt="Logo Figma" style="width: 50px; height: 40px;"/>
    <img src="https://img.icons8.com/color/512/flutter.png"  alt="Logo Flutter" style="width: 50px; height: 40px;">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Logo Linux" style="width: 50px; height: 40px;"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" alt="Logo React" style="width: 50px; height: 40px;"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Logo Tailwindcss" style="width: 50px; height: 40px;/>
           
