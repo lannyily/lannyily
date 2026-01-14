@@ -8,12 +8,14 @@ Tenho 21 anos e atualmente sou Acadêmica do Curso de Sistemas de Informação (
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=lannyily&show_icons=true&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api?username=lannyily&show_icons=true&theme=radical&cache_seconds=1800" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lannyily&layout=compact&theme=radical&show_icons=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lannyily&layout=compact&theme=radical&cache_seconds=1800" />
+    </td>
   </tr>
 </table>
+
 
 <div style="display:inline_blake"><br/>
    <img src="https://img.icons8.com/color/600/c-programming.png" alt="Logo C" style="width: 45px; height: 45px;">
