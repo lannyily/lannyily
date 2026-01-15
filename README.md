@@ -1,6 +1,4 @@
-### Olá, eu sou a Erlanny Rodrigues 👋
-
-Tenho 21 anos e atualmente sou Acadêmica do Curso de Sistemas de Informação (UFPI).
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9C16F7&width=435&lines=Hello%2C+I'm+Erlanny!" alt="Typing SVG" /></a>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lannyily)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erlanny-rodrigues-51387727a/)
