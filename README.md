@@ -11,7 +11,7 @@ Tenho 21 anos e atualmente sou Acadêmica do Curso de Sistemas de Informação (
       <img src="https://git-stats-one-gray.vercel.app/api?username=lannyily&theme=dark&hide_border=true&bg_color=ffffff00&show_icons=true&title_color=808080" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lannyily&layout=compact&theme=radical&cache_seconds=1800" />
+      <img src="https://git-stats-one-gray.vercel.app/api/top-langs/?username=lannyily&&theme=dark&hide_border=true&bg_color=ffffff00&layout=compact&title_color=808081" />
     </td>
   </tr>
 </table>
