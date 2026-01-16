@@ -1,39 +1,34 @@
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="left">
-      <a href="https://git.io/typing-svg">
-        <img 
-          src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9C16F7&width=435&lines=Hello%2C+I'm+Erlanny!" 
-          alt="Typing SVG"
-        />
-      </a>
-    </td>
-    <td align="right">
-      <a href="https://www.instagram.com/lannyily">
-        <img 
-          src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-        />
-      </a>
-      <a href="https://www.linkedin.com/in/erlanny-rodrigues-51387727a/">
-        <img 
-          src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-      </a>
-    </td>
-  </tr>
-</table>
+<div>
+  <span align="left">
+    <a href="https://git.io/typing-svg">
+      <img 
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9C16F7&width=435&lines=Hello%2C+I'm+Erlanny!" 
+        alt="Typing SVG"
+      />
+    </a>
+  </span>
 
+  <span align="right">
+    <a href="https://www.instagram.com/lannyily">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    </a>
+    <a href="https://www.linkedin.com/in/erlanny-rodrigues-51387727a/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+  </span>
+</div>
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://git-stats-one-gray.vercel.app/api?username=lannyily&theme=dark&hide_border=true&bg_color=ffffff00&show_icons=true&title_color=808080" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://git-stats-one-gray.vercel.app/api/top-langs/?username=lannyily&&theme=dark&hide_border=true&bg_color=ffffff00&layout=compact&title_color=808081" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img 
+    width="49%" 
+    src="https://git-stats-one-gray.vercel.app/api?username=lannyily&theme=dark&hide_border=true&bg_color=ffffff00&show_icons=true&title_color=808080" 
+  />
+  <img 
+    width="49%" 
+    src="https://git-stats-one-gray.vercel.app/api/top-langs/?username=lannyily&theme=dark&hide_border=true&bg_color=ffffff00&layout=compact&title_color=808081" 
+  />
+</div>
+
 
 
 <div style="display:inline_blake"><br/>
