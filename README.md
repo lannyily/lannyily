@@ -21,7 +21,36 @@
 
 ---
 
-<table> <tr> <td align="center" width="50%"> <img src="https://git-stats-one-gray.vercel.app/api?username=lannyily&theme=dark&hide_border=true&bg_color=ffffff00&show_icons=true&title_color=808080" /> </td> <td align="center" width="50%"> <img src="https://git-stats-one-gray.vercel.app/api/top-langs/?username=lannyily&&theme=dark&hide_border=true&bg_color=ffffff00&layout=compact&title_color=808081" /> </td> </tr> </table>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img 
+        src="https://git-stats-one-gray.vercel.app/api
+        ?username=lannyily
+        &theme=dark
+        &hide_border=true
+        &bg_color=ffffff00
+        &show_icons=true
+        &title_color=9C16F7
+        &text_color=9C16F7
+        &icon_color=9C16F7"
+      />
+    </td>
+    <td align="center" width="50%">
+      <img 
+        src="https://git-stats-one-gray.vercel.app/api/top-langs/
+        ?username=lannyily
+        &theme=dark
+        &hide_border=true
+        &bg_color=ffffff00
+        &layout=compact
+        &title_color=9C16F7
+        &text_color=9C16F7"
+      />
+    </td>
+  </tr>
+</table>
+
 
 
 
