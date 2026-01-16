@@ -1,13 +1,9 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9C16F7&width=435&lines=Hello%2C+I'm+Erlanny!" 
-      alt="Typing SVG"
-    />
-  </a>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9C16F7&center=true&vCenter=true&lines=Hello%2C+I'm+Erlanny!" 
+    alt="Typing SVG"
+  />
 </div>
-
-<br>
 
 <div align="center">
   <a href="https://www.instagram.com/lannyily">
@@ -15,13 +11,14 @@
       src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
     />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/erlanny-rodrigues-51387727a/">
     <img 
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
     />
   </a>
 </div>
+
 
 
 <table> <tr> <td align="center" width="50%"> <img src="https://git-stats-one-gray.vercel.app/api?username=lannyily&theme=dark&hide_border=true&bg_color=ffffff00&show_icons=true&title_color=808080" /> </td> <td align="center" width="50%"> <img src="https://git-stats-one-gray.vercel.app/api/top-langs/?username=lannyily&&theme=dark&hide_border=true&bg_color=ffffff00&layout=compact&title_color=808081" /> </td> </tr> </table>
