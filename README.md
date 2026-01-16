@@ -18,16 +18,7 @@
   </span>
 </div>
 
-<div align="center">
-  <img 
-    width="49%" 
-    src="https://git-stats-one-gray.vercel.app/api?username=lannyily&theme=dark&hide_border=true&bg_color=ffffff00&show_icons=true&title_color=808080" 
-  />
-  <img 
-    width="49%" 
-    src="https://git-stats-one-gray.vercel.app/api/top-langs/?username=lannyily&theme=dark&hide_border=true&bg_color=ffffff00&layout=compact&title_color=808081" 
-  />
-</div>
+<table> <tr> <td align="center" width="50%"> <img src="https://git-stats-one-gray.vercel.app/api?username=lannyily&theme=dark&hide_border=true&bg_color=ffffff00&show_icons=true&title_color=808080" /> </td> <td align="center" width="50%"> <img src="https://git-stats-one-gray.vercel.app/api/top-langs/?username=lannyily&&theme=dark&hide_border=true&bg_color=ffffff00&layout=compact&title_color=808081" /> </td> </tr> </table>
 
 
 
