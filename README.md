@@ -1,4 +1,4 @@
-<table width="100%">
+<table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td align="left">
       <a href="https://git.io/typing-svg">
@@ -22,6 +22,7 @@
     </td>
   </tr>
 </table>
+
 
 <table>
   <tr>
